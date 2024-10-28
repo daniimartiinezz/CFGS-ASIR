@@ -1,0 +1,69 @@
+{
+    "CovidDiario": {
+        "InformacionDiaria": [
+            {
+                "Fecha": "2020-09-22",
+                "Casos": 146,
+                "Defunciones": 10,
+                "TotalCasos": 133751,
+                "TotalDefunciones": 5823
+            },
+            {
+                "Fecha": "2020-09-21",
+                "Casos": 125,
+                "Defunciones": 4,
+                "TotalCasos": 132700,
+                "TotalDefunciones": 5808
+            },
+            {
+                "Fecha": "2020-09-20",
+                "Casos": 127,
+                "Defunciones": 2,
+                "TotalCasos": 132024,
+                "TotalDefunciones": 5802
+            },
+            {
+                "Fecha": "2020-09-19",
+                "Casos": 0,
+                "Defunciones": 0,
+                "TotalCasos": 128901,
+                "TotalDefunciones": 5797
+            },
+            {
+                "Fecha": "2020-09-18",
+                "Casos": 0,
+                "Defunciones": 0,
+                "TotalCasos": 128901,
+                "TotalDefunciones": 5797
+            },
+            {
+                "Fecha": "2020-09-17",
+                "Casos": 183,
+                "Defunciones": 5,
+                "TotalCasos": 128901,
+                "TotalDefunciones": 5797
+            },
+            {
+                "Fecha": "2020-09-16",
+                "Casos": 110,
+                "Defunciones": 7,
+                "TotalCasos": 127544,
+                "TotalDefunciones": 5796
+            },
+            {
+                "Fecha": "2020-09-15",
+                "Casos": 214,
+                "Defunciones": 7,
+                "TotalCasos": 126234,
+                "TotalDefunciones": 5787
+            },
+            {
+                "Fecha": "2020-09-14",
+                "Casos": 0,
+                "Defunciones": 5,
+                "TotalCasos": 123393,
+                "TotalDefunciones": 5780
+            }
+        ]
+    }
+}

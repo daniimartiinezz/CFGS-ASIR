@@ -1,0 +1,64 @@
+<CovidDiario>
+    <InformacionDiaria fecha="2020-09-22">
+        <Casos>146</Casos>
+        <Defunciones>10</Defunciones>
+        <TotalCasos>133751</TotalCasos>
+        <TotalDefunciones>5823</TotalDefunciones>
+    </InformacionDiaria>
+
+    <InformacionDiaria fecha="2020-09-21">
+        <Casos>125</Casos>
+        <Defunciones>4</Defunciones>
+        <TotalCasos>132700</TotalCasos>
+        <TotalDefunciones>5808</TotalDefunciones>
+    </InformacionDiaria>
+
+    <InformacionDiaria fecha="2020-09-20">
+        <Casos>127</Casos>
+        <Defunciones>2</Defunciones>
+        <TotalCasos>132024</TotalCasos>
+        <TotalDefunciones>5802</TotalDefunciones>
+    </InformacionDiaria>
+
+    <InformacionDiaria fecha="2020-09-19">
+        <Casos>0</Casos>
+        <Defunciones>0</Defunciones>
+        <TotalCasos>128901</TotalCasos>
+        <TotalDefunciones>5797</TotalDefunciones>
+    </InformacionDiaria>
+
+    <InformacionDiaria fecha="2020-09-18">
+        <Casos>0</Casos>
+        <Defunciones>0</Defunciones>
+        <TotalCasos>128901</TotalCasos>
+        <TotalDefunciones>5797</TotalDefunciones>
+    </InformacionDiaria>
+
+    <InformacionDiaria fecha="2020-09-17">
+        <Casos>183</Casos>
+        <Defunciones>5</Defunciones>
+        <TotalCasos>128901</TotalCasos>
+        <TotalDefunciones>5797</TotalDefunciones>
+    </InformacionDiaria>
+
+    <InformacionDiaria fecha="2020-09-16">
+        <Casos>110</Casos>
+        <Defunciones>7</Defunciones>
+        <TotalCasos>127544</TotalCasos>
+        <TotalDefunciones>5796</TotalDefunciones>
+    </InformacionDiaria>
+
+    <InformacionDiaria fecha="2020-09-15">
+        <Casos>214</Casos>
+        <Defunciones>7</Defunciones>
+        <TotalCasos>126234</TotalCasos>
+        <TotalDefunciones>5787</TotalDefunciones>
+    </InformacionDiaria>
+
+    <InformacionDiaria fecha="2020-09-14">
+        <Casos>0</Casos>
+        <Defunciones>5</Defunciones>
+        <TotalCasos>123393</TotalCasos>
+        <TotalDefunciones>5780</TotalDefunciones>
+    </InformacionDiaria>
+</CovidDiario>

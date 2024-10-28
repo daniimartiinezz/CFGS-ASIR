@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LigaFutbol>
+    <Equipo codigoEquipo="001">
+        <Nombre>Real Madrid</Nombre>
+        <Ciudad>Madrid</Ciudad>
+        <Entrenador>
+            <Nombre>Carlos</Nombre>
+            <Apellido>Ancelotti</Apellido>
+            <Nacionalidad>Italiana</Nacionalidad>
+        </Entrenador>
+        <Estadio>
+            <Nombre>Santiago Bernabéu</Nombre>
+            <Construccion>1947</Construccion>
+            <Capacidad>81044</Capacidad>
+        </Estadio>
+        <Jugadores>
+            <Jugador codigoJugador="001001" internacional="Si">
+                <Nombre>Karim</Nombre>
+                <PrimerApellido>Benzema</PrimerApellido>
+                <Nacionalidad>Francesa</Nacionalidad>
+                <Dorsal>9</Dorsal>
+                <Posicion>Delantero</Posicion>
+            </Jugador>
+            <Jugador codigoJugador="001002" internacional="Si">
+                <Nombre>Luka</Nombre>
+                <PrimerApellido>Modric</PrimerApellido>
+                <SegundoApellido>Vrsaljko</SegundoApellido>
+                <Nacionalidad>Croata</Nacionalidad>
+                <Dorsal>10</Dorsal>
+                <Posicion>Centrocampista</Posicion>
+            </Jugador>
+            <Jugador codigoJugador="001003" internacional="Si">
+                <Nombre>Thibaut</Nombre>
+                <PrimerApellido>Courtois</PrimerApellido>
+                <Nacionalidad>Belga</Nacionalidad>
+                <Dorsal>1</Dorsal>
+                <Posicion>Portero</Posicion>
+            </Jugador>
+        </Jugadores>
+    </Equipo>
+    
+    <Equipo codigoEquipo="002">
+        <Nombre>FC Barcelona</Nombre>
+        <Ciudad>Barcelona</Ciudad>
+        <Entrenador>
+            <Nombre>Xavi</Nombre>
+            <Apellido>Hernández</Apellido>
+            <Nacionalidad>Española</Nacionalidad>
+        </Entrenador>
+        <Estadio>
+            <Nombre>Camp Nou</Nombre>
+            <Construccion>1957</Construccion>
+            <Capacidad>99354</Capacidad>
+        </Estadio>
+        <Jugadores>
+            <Jugador codigoJugador="002001" internacional="Si">
+                <Nombre>Robert</Nombre>
+                <PrimerApellido>Lewandowski</PrimerApellido>
+                <Nacionalidad>Polaca</Nacionalidad>
+                <Dorsal>9</Dorsal>
+                <Posicion>Delantero</Posicion>
+            </Jugador>
+            <Jugador codigoJugador="002002" internacional="Si">
+                <Nombre>Pedri</Nombre>
+                <PrimerApellido>González</PrimerApellido>
+                <SegundoApellido>López</SegundoApellido>
+                <Nacionalidad>Española</Nacionalidad>
+                <Dorsal>8</Dorsal>
+                <Posicion>Centrocampista</Posicion>
+            </Jugador>
+            <Jugador codigoJugador="002003" internacional="Si">
+                <Nombre>Marc-André</Nombre>
+                <PrimerApellido>ter Stegen</PrimerApellido>
+                <Nacionalidad>Alemana</Nacionalidad>
+                <Dorsal>1</Dorsal>
+                <Posicion>Portero</Posicion>
+            </Jugador>
+        </Jugadores>
+    </Equipo>
+</LigaFutbol>

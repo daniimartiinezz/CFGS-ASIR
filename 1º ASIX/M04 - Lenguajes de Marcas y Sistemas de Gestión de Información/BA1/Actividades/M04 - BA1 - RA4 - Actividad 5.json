@@ -1,0 +1,82 @@
+[{
+    "codigo":"001",
+    "nombre_equipo":"Real Madrid", 
+    "ciudad":"Madrid", 
+    "entrenador":{
+        "nombre":"Carlos", 
+        "apellido":"Ancelotti",
+        "nacionalidad":"Italiana"
+    },
+    "estadio":{
+        "nombre":"Santiago Bernabeu",
+        "construccion":1947,
+        "capacidad":81044
+    },
+    "jugadores":[
+        {
+            "nombre":"Karim",
+            "apellido":"Benzema",
+            "nacionalidad":"Francesa",
+            "dorsal":9,
+            "posicion":"Delantero",
+            "internacional":true
+        },
+        {
+            "nombre":"Luka",
+            "apellido":"Modric",
+            "nacionalidad":"Croata",
+            "dorsal":10,
+            "posicion":"Centrocampista",
+            "internacional":true
+        },
+        {
+            "nombre":"Thibaut",
+            "apellido":"Courtois",
+            "nacionalidad":"Belga",
+            "dorsal":1,
+            "posicion":"Portero",
+            "internacional":true
+        }
+    ]
+}, 
+{
+    "codigo":"002",
+    "nombre_equipo":"FC Barcelona", 
+    "ciudad":"Barcelona", 
+    "entrenador":{
+        "nombre":"Xavi", 
+        "apellido":"Hernandez",
+        "nacionalidad":"Española"
+    },
+    "estadio":{
+        "nombre":"Camp Nou",
+        "construccion":1957,
+        "capacidad":99354
+    },
+    "jugadores":[
+        {
+            "nombre":"Robert",
+            "apellido":"Lewandowski",
+            "nacionalidad":"Polaca",
+            "dorsal":9,
+            "posicion":"Delantero",
+            "internacional":true
+        },
+        {
+            "nombre":"Pedri",
+            "apellido":"Gonzalez",
+            "nacionalidad":"Española",
+            "dorsal":8,
+            "posicion":"Centrocampista",
+            "internacional":true
+        },
+        {
+            "nombre":"Marc-André",
+            "apellido":"Ter Stegen",
+            "nacionalidad":"Alemana",
+            "dorsal":1,
+            "posicion":"Portero",
+            "internacional":true
+        }
+    ]
+}]
